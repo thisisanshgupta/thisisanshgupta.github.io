@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
 body {
-  background: #25D2FF;
   font-family: "Fredoka One", cursive;
   overflow-x: hidden;
   -webkit-animation: bgcolor 20s infinite;
